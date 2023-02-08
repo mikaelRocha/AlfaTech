@@ -1,0 +1,10 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100vh;
+}
+.container{
+    flex: 2;
+    border: 1px solid #2b2d94
+}
